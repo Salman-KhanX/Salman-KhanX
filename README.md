@@ -1,3 +1,5 @@
+![Logo](https://github.com/Salman-KhanX/Salman-KhanX/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Salman Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
